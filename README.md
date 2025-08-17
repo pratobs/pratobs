@@ -39,8 +39,8 @@ A passionate IT professional with **4 years of hands-on experience**, driven to 
 
 ## 🤝 Let’s Connect
 
-| GitHub                                             | LinkedIn                                                        | Twitter                                                             |
-| :-------------------------------------------------: | :-------------------------------------------------------------: | :-----------------------------------------------------------------: |
+| GitHub                                             | LinkedIn                                                        |
+| :-------------------------------------------------: | :-------------------------------------------------------------: |
 | [![GitHub](https://img.shields.io/badge/GitHub-pratikphadatare-181717?logo=github&logoColor=white)](https://github.com/pratobs) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pratik%20Phadatare-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/pratik-phadatare) 
 
 ---
